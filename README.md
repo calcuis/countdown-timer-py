@@ -1,4 +1,4 @@
-## Counterdown Timer
+## Countdown Timer
 
 This Python code uses the tkinter library to create a simple graphical user interface (GUI) for a countdown timer. The timer allows the user to set the countdown time in minutes and seconds and then starts a countdown until the time reaches zero. When the countdown reaches zero, a message box is displayed to notify the user that the time is up.
 
